@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "NoteBook_Couture-mobile-app",
-    "slug": "NoteBook_Couture-mobile-app",
+    "name": "NoteBook Couture",
+    "slug": "NoteBook Couture",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
